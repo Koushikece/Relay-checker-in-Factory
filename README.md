@@ -1,4 +1,4 @@
-# Relay-checker-in-Factory
+# Relay-Checker-App-For-Siemens-Factory
 This app provides a GUI interface to users to track of relay devices. Any employee can easily take relays from Siemens Goa Factory for testing purpose. This app also provides an interface to submit their name, email, phone number, expected return date of the device . Except this, realys can be returned and more devices can be added using this desktop app.
 This is completely built using python language and tkinter library. 
 
